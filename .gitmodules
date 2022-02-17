@@ -4,3 +4,6 @@
 [submodule "front"]
   path = front
   url = ./front
+[submodule "infrastructure"]
+  path = infrastructure
+  url = ./infrastructure
